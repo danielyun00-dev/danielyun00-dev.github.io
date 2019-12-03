@@ -1,0 +1,41 @@
+
+body {
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+#main {
+	flex: 50%;
+	margin-top: 23%;
+}
+
+#navbar-item {
+	margin-top: 5%;
+}
+
+#copyright {
+	margin-top: 35%;
+}
+#other {
+	margin-top: 10%;
+}
+
+#contact {
+	margin-left: 5%;
+}
+
+#travel-pic {
+	flex: 50%;
+}
